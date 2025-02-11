@@ -4,6 +4,7 @@
 </p>
 
 <h1 align="center">Hey, what's up my friend 👋</h1>
+<h2 align-"center">Skkrrtt</h2>
 <h1 align="center">I'm Teofredo M. Gamale Jr. 👋</h1>
 <h3 align="center">A passionate and enthusiastic Fullstack Web Developer, dedicated to crafting efficient and innovative web solutions.</h3>
 
