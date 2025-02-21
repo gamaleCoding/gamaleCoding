@@ -3,7 +3,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjE4NGdsM3BibzYzMzhzNTU1d2E2NmlxejV2bzNmdjJqZGlibGFiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PQ0VI3S5vqL5pwQQJX/giphy.gif" width="1000"; height="500" alt="Coding GIF">
 </p>
 
-<h1 align="center">Hey, what's up my friend, Skkrrtt 👋</h1>
+<h1 align="center">Hey, what's up my friend 👋</h1>
 <!-- <h2 align="center">I'm happy to see you again brooo....</h2> -->
 <h1 align="center">I'm Teofredo M. Gamale Jr. 👋</h1>
 <h3 align="center">A passionate and enthusiastic Fullstack Web Developer, dedicated to crafting efficient and innovative web solutions.</h3>
