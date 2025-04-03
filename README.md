@@ -1,6 +1,6 @@
 <!-- Profile README for Teofredo M. Gamale Jr. -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlqYm0xenVzM3J6enY4dWUzazBmaWp4djBrNGw5cTV3M2kwN2Q0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckinJAjhS3YUAI0aLb/giphy.gif" width="800" alt="Coding GIF">
+  <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM2NTc2ODksIm5iZiI6MTc0MzY1NzM4OSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAzVDA1MTYyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkMGYxMDAxZWI2YTdjNWRiNGE0MzRjZThhMjM0MjQ5MmYzNzUxNGJhYTU5YWNkZmFlYzM2ZjVkODQzODY1ZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JiIcN-_8TUke58dI3-bjnCrfeAf811UDFHukTvxJs8o" width="800" alt="Coding GIF">
 </p>
 
 <h1 align="center">Hey What's Up My Friend! 👋</h1>
