@@ -3,7 +3,7 @@
   <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM2NTc2ODksIm5iZiI6MTc0MzY1NzM4OSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAzVDA1MTYyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkMGYxMDAxZWI2YTdjNWRiNGE0MzRjZThhMjM0MjQ5MmYzNzUxNGJhYTU5YWNkZmFlYzM2ZjVkODQzODY1ZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JiIcN-_8TUke58dI3-bjnCrfeAf811UDFHukTvxJs8o" width="800" alt="Coding GIF">
 </p>
 
-<h1 align="center">Hey What's Up My Friend! 👋</h1>
+<h1 align="center">Hello! 👋</h1>
 <h3 align="center">I'm Teofredo M. Gamale Jr., a passionate Fullstack Web Developer 🚀</h3>
 <p align="center">Crafting innovative and efficient web solutions with Laravel, Vue.js, and more.</p>
 
