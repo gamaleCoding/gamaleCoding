@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hello! 👋</h1>
-<h3 align="center">I'm Teofredo M. Gamale Jr., a passionate Fullstack Web Developer 🚀</h3>
+<h3 align="center">I'm Teofredo M. Gamale Jr. A passionate Fullstack Web Developer 🚀</h3>
 <p align="center">Crafting innovative and efficient web solutions with Laravel, Vue.js, and more.</p>
 
 ---
