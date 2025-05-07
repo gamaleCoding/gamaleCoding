@@ -12,7 +12,7 @@
 - 🌱 Learning **Vue.js, Laravel, React.js, and JavaScript**
 - 📫 Reach me: **teofredogamale@gmail.com**
 - 🚀 Portfolio: **[gamaleCoding.github.io](https://gamaleCoding.github.io)**
-- ⚡ Fun fact: **I’m always eager to learn something new!**
+- ⚡ Fun fact: **Solving Rubik’s Cubes is my body & brain refresher! 🧠⚡**
 
 ---
 
