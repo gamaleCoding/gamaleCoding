@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠 **Tech Stack (Your Original Tools)**
+### 🛠 **Tech Stack **
 <p align="center">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="60" height="60"/>
