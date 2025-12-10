@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 **About Me**
-- 🔭 Working on **[Gift-Check Monitoring System](https://github.com/IT-Sysdev-2023/gift-check)**
+- 🔭 Working on **[Gift-Check Monitoring System](https://github.com/IT-Sysdev-2023/gift-check), Account Receivable System, Stock Withdrawal Advice System and NESA System**
 - 🌱 Learning **Vue.js, Laravel, React.js, and JavaScript**
 - 📫 Reach me: **teofredogamale@gmail.com**
 - 🚀 Portfolio: **[gamaleCoding.github.io](https://gamaleCoding.github.io)**
